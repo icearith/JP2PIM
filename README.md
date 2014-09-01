@@ -1,4 +1,6 @@
 JP2PIM
 ======
 
-Java P2P Instant Message Tools
+P2P Instant Message Tools, I write it with Java.
+
+
